@@ -14,8 +14,6 @@ The code language is written i JAVA.
 
 Enjoy the ride :)
 
-Fatmir
-
-GritAcademy Student
+Fatmir, GritAcademy Student
  
 
