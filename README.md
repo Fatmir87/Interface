@@ -1,7 +1,7 @@
 # Interface
 
  
-Tony Montana Sound Program
+Tony Montana Sound Program Manual
 
 Welcome to my interface.
 
