@@ -12,12 +12,4 @@ public class ComboBox implements ItemListener {
 		}
 	}
 }
-// public static void main(String[] args) {
 
-//		JComboBox patternList = new JComboBox(Sound);
-//		patternList.setEditable(true);
-//		patternList.addActionListener();
-
-// }
-
-//}
